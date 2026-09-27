@@ -1,3 +1,7 @@
+> **`fall-guys` branch:** the EOS core plus Fall Guys deployment specifics
+> (`EOS_DEPLOYMENT_ID` default, show/lobby bucket). The exact Epic ids are
+> placeholders to confirm from a capture — see NOTES.md. Core is on `main`.
+
 # nextendo-eos-nx
 
 An **Epic Online Services (EOS)** backend for [Nextendo Network](https://nextendo.network), so EOS-based cross-play titles (Fall Guys and other Unreal games) work on the stack instead of Epic's servers. Source only. Not affiliated with Epic Games.

@@ -17,3 +17,11 @@
 
 ## Per game
 Set EOS_DEPLOYMENT_ID and any client ids on a game branch (see `fall-guys`).
+
+## fall-guys branch
+- fallguys.go defaults EOS_DEPLOYMENT_ID to a placeholder and names the show
+  lobby bucket (fallguys:show).
+- TO CONFIRM from a Fall Guys client/capture: the real EOS deployment id,
+  sandbox id and client id; the connect external-auth flow (NSA id_token); and
+  the matchmaking/session endpoints Fall Guys actually calls (watch the
+  dashboard `unhandled` list against a live game).
