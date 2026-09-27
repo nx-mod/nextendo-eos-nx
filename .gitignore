@@ -1,0 +1,5 @@
+/server
+/nextendo-eos-nx
+*.out
+*.pem
+.env
