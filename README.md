@@ -48,3 +48,7 @@ The auth → connect → lobby core is implemented and tested. The exact EOS req
 - **[Epic Online Services documentation](https://dev.epicgames.com/docs/game-services)** — the EOS auth/connect/lobby model (public docs).
 
 Protocol facts were read and reimplemented; no code was copied.
+
+## Credits
+
+Built by nx-mod for the **Nextendo Network**, on the work of the Nextendo Network team — https://nextendo.network. Nextendo is awesome.
