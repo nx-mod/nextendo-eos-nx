@@ -1,5 +1,7 @@
 # nextendo-eos-nx
 
+*(still in alpha testing)*
+
 **A new service implementation by nx-mod** for the Nextendo Network.
 
 An **Epic Online Services (EOS)** backend for [Nextendo Network](https://nextendo.network), so EOS-based cross-play titles (Fall Guys and other Unreal games) work on the stack instead of Epic's servers. Source only. Not affiliated with Epic Games.
